@@ -32,7 +32,8 @@ print("Result after adding 10:", num)
 
 
 
-a = 10
+a = 1
+
 b = 8
 
 print("Bitwise AND (&):", a & b)
