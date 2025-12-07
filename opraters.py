@@ -33,8 +33,7 @@ print("Result after adding 10:", num)
 
 
 a = 1
-
-b = 9
+b = 96
 
 print("Bitwise AND (&):", a & b)
 print("Bitwise OR (|):", a | b)
