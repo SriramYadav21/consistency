@@ -65,6 +65,10 @@ for ch in s:
         count += 1
 print(count)
 
-
+ch = input("Enter a character: ").upper()
+if ch.isdigit() or ch in "ABCDEF":
+    print("Hex digit")
+else:
+    print("Not hex digit")
 
 
